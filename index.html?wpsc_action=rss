@@ -1,9 +1,0 @@
-<?xml version='1.0'?><rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom' xmlns:g="http://base.google.com/ns/1.0">
-    <channel>
-        <title><![CDATA[Sofia Nordqvist - ]]></title>
-        <link><![CDATA[http://www.sofianordqvist.com/]]></link>
-        <description></description>
-        <generator><![CDATA[WP eCommerce]]></generator>
-        <atom:link href='http://www.sofianordqvist.com/' rel='self' type='application/rss+xml' />
-      </channel>
-    </rss>
